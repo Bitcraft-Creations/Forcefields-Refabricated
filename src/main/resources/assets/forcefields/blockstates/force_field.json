@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "forcefields:block/force_field" }
+  }
+}

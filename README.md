@@ -103,16 +103,8 @@ This document outlines the plan for porting the ModularForceFieldSystems (MFFS) 
 ### Recommended Resources
 
 - **Fabric Wiki:** [Fabric Wiki](https://fabricmc.net/wiki/)
-- **Fabric Example Mod:** [GitHub Repository](https://github.com/FabricMC/fabric-example-mod)
-- **Minecraft Modding Tutorials:**
-
-  - [YouTube Fabric Modding Playlist](https://www.youtube.com/playlist?list=PLoJG3BzQ2oHkg8_EmmMhVwGyivqvgIr-K)
-  - [Minecraft Modding with Fabric](https://fabricmc.net/wiki/tutorial:setup)
-
-- **Documentation Tools:**
-  - JavaDoc: For documenting your code.
-  - Markdown: For creating user guides and documentation.
+- **Fabric CLI:** [Fabric CLI](https://fabricmc.net/develop/cli/)
 
 ## Conclusion
 
-By following this plan, you will be able to systematically port the ModularForceFieldSystems mod to Fabric. Each milestone builds on the previous one, allowing you to progressively implement and test features. Utilize the recommended resources and topics to deepen your understanding of Fabric and Minecraft modding.
+By following this plan, we will be able to systematically port the ModularForceFieldSystems mod to Fabric. Each milestone builds on the previous one, allowing us to progressively implement and test features. Utilize the recommended resources and topics to deepen our understanding of Fabric and Minecraft modding.
